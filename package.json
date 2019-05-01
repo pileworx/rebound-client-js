@@ -1,0 +1,22 @@
+{
+  "name": "@donaldlsmithjr/rebound-client-js",
+  "version": "0.1.0",
+  "description": "JavaScript client for pileworx/rebound",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donaldlsmithjr/rebound-client-js.git"
+  },
+  "author": "donaldlsmithjr",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/donaldlsmithjr/rebound-client-js/issues"
+  },
+  "homepage": "https://github.com/donaldlsmithjr/rebound-client-js#readme",
+  "devDependencies": {
+    "webpack": "^4.30.0"
+  }
+}
