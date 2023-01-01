@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/donaldlsmithjr/rebound-client-js#readme",
   "devDependencies": {
-    "webpack": "^4.30.0"
+    "webpack": "^5.75.0"
   }
 }
